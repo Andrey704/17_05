@@ -1,0 +1,2 @@
+Sum of salary is 536094420
+Average of salary is 29783023.333333332
